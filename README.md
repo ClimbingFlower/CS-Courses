@@ -9,6 +9,7 @@ Difficulty:&nbsp;⭐⭐️⭐️️
 \
 Necessity:&nbsp;&nbsp;⭐️⭐️⭐️⭐️⭐️
 \
+\
 ### 离散数学&nbsp;***Mathematics for Computer Science***
 Reference Video:&nbsp;MIT 6.042J: Mathematics for Computer Science
 \
@@ -17,7 +18,7 @@ Reference Book:&nbsp;&nbsp;离散数学及其应用
 Difficulty:&nbsp;⭐⭐️⭐️️
 \
 Necessity:&nbsp;&nbsp;⭐️⭐️⭐️
-\
+
 ### 计算机网络&nbsp;***Computer Networking***
 Reference Video:&nbsp;Stanford CS144: Introduction to Computer Networking
 \
