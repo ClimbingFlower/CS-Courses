@@ -2,9 +2,9 @@
 
 ### 数据结构与算法 **Data Structures and Algorithms**
 \
-Reference Video:   UC Berkeley CS 61B: Data Structures
+Reference Video:&nbsp;UC Berkeley CS 61B: Data Structures
 \
-Reference Book:    Data Structures and Algorithm Analysis in C++: *Mark Allen Weiss*
+Reference Book:&nbsp;&nbsp;Data Structures and Algorithm Analysis in C++: *Mark Allen Weiss*
 \
 Difficulty: ***
 \
