@@ -7,9 +7,7 @@ Reference Book:&nbsp;&nbsp;Data Structures and Algorithm Analysis in C++-*Mark A
 \
 Difficulty:&nbsp;⭐⭐️⭐️️
 \
-Necessity:&nbsp;&nbsp;⭐️⭐️⭐️⭐️⭐️
-
-
+Necessity:&nbsp;&nbsp;⭐️⭐️⭐️⭐️⭐️<br><br>
 ### 离散数学&nbsp;***Mathematics for Computer Science***
 Reference Video:&nbsp;MIT 6.042J: Mathematics for Computer Science
 \
