@@ -6,6 +6,6 @@ Reference Video:&nbsp;UC Berkeley CS 61B: Data Structures
 \
 Reference Book:&nbsp;&nbsp;Data Structures and Algorithm Analysis in C++: *Mark Allen Weiss*
 \
-Difficulty: ***
+Difficulty:&nbsp;⭐⭐️⭐️️
 \
-Necessity: *****
+Necessity:&nbsp;&nbsp;⭐️⭐️⭐️⭐️⭐️
