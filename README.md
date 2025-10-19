@@ -9,7 +9,7 @@ Difficulty:&nbsp;⭐⭐️⭐️️
 \
 Necessity:&nbsp;&nbsp;⭐️⭐️⭐️⭐️⭐️
 
-\
+
 ### 离散数学&nbsp;***Mathematics for Computer Science***
 Reference Video:&nbsp;MIT 6.042J: Mathematics for Computer Science
 \
