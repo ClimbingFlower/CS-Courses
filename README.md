@@ -1,7 +1,6 @@
 # 计算机必修的九门课程
 
-### 数据结构与算法
-### **Data Structures and Algorithms**
+### 数据结构与算法 **Data Structures and Algorithms**
 \
 Reference Video:   UC Berkeley CS 61B: Data Structures
 \
